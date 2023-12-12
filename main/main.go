@@ -1,8 +1,8 @@
 package main
 
 func main() {
-	println("123")
+	println("555")
 	println("456")
-	println("aaa")
-	println("bbb")
+	println("jjjj")
+
 }
