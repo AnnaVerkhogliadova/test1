@@ -1,11 +1,7 @@
 package main
 
 func main() {
+	println("123")
 	println("jjj")
-	println("HELLO")
-
-	println("hhh")
-	println("kkk")
-	println("kkk")
-
+	println("anna")
 }
