@@ -1,8 +1,8 @@
 package main
 
 func main() {
-	println("555")
-	println("456")
-	println("jjjj")
+	println("kfjglkdfgkjhdf")
+	println("fgf6")
+	println("7485436583")
 
 }
